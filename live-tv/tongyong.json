@@ -3,7 +3,7 @@
   "sites": [
       {
             "key": "索尼",
-            "name": "🛸┃4K高清┃关注微信公众号：影音天堂，还有更多好东西",
+            "name": "🛸┃4K高清┃希望每一天都能让你快乐，幸福！",
             "type": 1,
             "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
             "playUrl": "",
