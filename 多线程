@@ -30,7 +30,7 @@
         {"url": "http://52bsj.vip:98/wuai","name":                                                                       "🦅吾爱"},
         {"url": "http://miaotvs.cn/meow","name":                                                                       "🐔喵影视"},
         {"url": "https://ghproxy.net/https://raw.githubusercontent.com/xiaolinshao/linshao/main/1.json","name":        "♔小武子"},
-        {"url": "https://ghproxy.net/https://raw.githubusercontent.com/xiaolinshao/linshao/main/18.json","name":    "♔小武子18+"},
+        //{"url": "https://ghproxy.net/https://raw.githubusercontent.com/xiaolinshao/linshao/main/18.json","name":    "♔小武子18+"},
         {"name": "👶小可乐综合","url": "https://download.kstore.space/download/4927/Axkl/xkl.json"},
         {"name": "👶小可乐精简","url": "https://download.kstore.space/download/4927/Axkl/xklsip.json"},
         {"name": "👶小可乐阿里","url": "https://download.kstore.space/download/4927/Axkl/xklali.json"},
@@ -38,7 +38,9 @@
         {"name": "🐯香佬线路","url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json"}, 
         {"name": "🐯蜂蜜线路","url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"}, 
         {"name": "🐯高天流云","url": "https://raw.iqiq.io/gaotianliuyun/gao/master/js.json"}, 
-        {"name": "🐯不良帅线路","url": "https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8"}, 
+        {"name": "🐯不良帅线路","url": "https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8"},
+        {"name": "🐯豆豆影视1","url": "https://tvbox.aluckymickey.eu.org/JS/js.json"},
+        {"name": "🐯豆豆影视2","url": "https://tvbox.aluckymickey.eu.org/XYQ/XYQ.json"}, 
         {"url": "https://raw.iqiq.io/liu673cn/box/main/m.json","name": "🦓老刘备"}
     ]
 }
