@@ -1300,6 +1300,30 @@
       "filterable": 1,
       "ext": "http://itvbox.cc/tvbox/云星日记/sh/Bilibili/哔哩PS.json"
     },
+    {"key":"影视更新4","name":"影视正式版fongmi","type":3,"api":"csp_Market","searchable":1,"changeable":1,"jar":"https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar","ext":[
+        {"name":"TV版-java32","url":"https://fongmi.cachefly.net/FongMi/Release/main/apk/release/leanback-java-armeabi_v7a.apk","icon":"https://fongmi.cachefly.net/FongMi/TV/main/other/image/icon-2.png"},
+        {"name":"TV版-java64","url":"https://fongmi.cachefly.net/FongMi/Release/main/apk/release/leanback-java-arm64_v8a.apk","icon":"https://fongmi.cachefly.net/FongMi/TV/main/other/image/icon-2.png"},
+        {"name":"TV版-py32","url":"https://fongmi.cachefly.net/FongMi/Release/main/apk/release/leanback-python-armeabi_v7a.apk","icon":"https://fongmi.cachefly.net/FongMi/TV/main/other/image/icon-2.png"},
+        {"name":"TV版-py64","url":"https://fongmi.cachefly.net/FongMi/Release/main/apk/release/leanback-python-arm64_v8a.apk","icon":"https://fongmi.cachefly.net/FongMi/TV/main/other/image/icon-2.png"},
+        {"name":"手機版-java32","url":"https://fongmi.cachefly.net/FongMi/Release/main/apk/release/mobile-java-armeabi_v7a.apk","icon":"https://fongmi.cachefly.net/FongMi/TV/main/other/image/icon-2.png"},
+        {"name":"手機版-java64","url":"https://fongmi.cachefly.net/FongMi/Release/main/apk/release/mobile-java-arm64_v8a.apk","icon":"https://fongmi.cachefly.net/FongMi/TV/main/other/image/icon-2.png"},
+        {"name":"手機版-py32","url":"https://fongmi.cachefly.net/FongMi/Release/main/apk/release/mobile-python-armeabi_v7a.apk","icon":"https://fongmi.cachefly.net/FongMi/TV/main/other/image/icon-2.png"},
+        {"name":"手機版-py64","url":"https://fongmi.cachefly.net/FongMi/Release/main/apk/release/mobile-python-arm64_v8a.apk","icon":"https://fongmi.cachefly.net/FongMi/TV/main/other/image/icon-2.png"},
+        {"name":"TV版(4.1-4.4)","url":"https://fongmi.cachefly.net/FongMi/Release/main/apk/kitkat/leanback.apk","icon":"https://fongmi.cachefly.net/FongMi/TV/main/other/image/icon-2.png"}
+        ]
+    },
+    {"key":"影视更新4b","name":"影视内测版fongmi","type":3,"api":"csp_Market","searchable":1,"changeable":1,"jar":"https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar","ext":[
+        {"name":"TV版-java32","url":"https://fongmi.cachefly.net/FongMi/Release/main/apk/dev/leanback-java-armeabi_v7a.apk","icon":"https://fongmi.cachefly.net/FongMi/TV/main/other/image/icon-2.png"},
+        {"name":"TV版-java64","url":"https://fongmi.cachefly.net/FongMi/Release/main/apk/dev/leanback-java-arm64_v8a.apk","icon":"https://fongmi.cachefly.net/FongMi/TV/main/other/image/icon-2.png"},
+        {"name":"TV版-py32","url":"https://fongmi.cachefly.net/FongMi/Release/main/apk/dev/leanback-python-armeabi_v7a.apk","icon":"https://fongmi.cachefly.net/FongMi/TV/main/other/image/icon-2.png"},
+        {"name":"TV版-py64","url":"https://fongmi.cachefly.net/FongMi/Release/main/apk/dev/leanback-python-arm64_v8a.apk","icon":"https://fongmi.cachefly.net/FongMi/TV/main/other/image/icon-2.png"},
+        {"name":"手機版-java32","url":"https://fongmi.cachefly.net/FongMi/Release/main/apk/dev/mobile-java-armeabi_v7a.apk","icon":"https://fongmi.cachefly.net/FongMi/TV/main/other/image/icon-2.png"},
+        {"name":"手機版-java64","url":"https://fongmi.cachefly.net/FongMi/Release/main/apk/dev/mobile-java-arm64_v8a.apk","icon":"https://fongmi.cachefly.net/FongMi/TV/main/other/image/icon-2.png"},
+        {"name":"手機版-py32","url":"https://fongmi.cachefly.net/FongMi/Release/main/apk/dev/mobile-python-armeabi_v7a.apk","icon":"https://fongmi.cachefly.net/FongMi/TV/main/other/image/icon-2.png"},
+        {"name":"手機版-py64","url":"https://fongmi.cachefly.net/FongMi/Release/main/apk/dev/mobile-python-arm64_v8a.apk","icon":"https://fongmi.cachefly.net/FongMi/TV/main/other/image/icon-2.png"},
+        {"name":"TV版(4.1-4.4)","url":"https://fongmi.cachefly.net/FongMi/Release/main/apk/kitkat/leanback.apk","icon":"https://fongmi.cachefly.net/FongMi/TV/main/other/image/icon-2.png"}
+        ]
+    },
     {
       "key": "py_meishi",
       "name": "🅱️┃美食┃合集",
