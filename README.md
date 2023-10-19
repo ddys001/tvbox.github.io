@@ -27,6 +27,7 @@
             </svg>
         </a>Ftindy精选
         </h4>
+        <p dir="auto"><code>https://github.com/Ftindy/IPTV-URL</code>&nbsp;&nbsp;&nbsp;&nbsp;IPTV 仓库</p>
         <p dir="auto"><code>https://goodiptv.vercel.app/huyayqk.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;虎牙一起看</p>
         <p dir="auto"><code>https://goodiptv.vercel.app/douyuyqk.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;斗鱼一起看</p>
         <p dir="auto"><code>https://goodiptv.vercel.app/yylunbo.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;YY轮播
