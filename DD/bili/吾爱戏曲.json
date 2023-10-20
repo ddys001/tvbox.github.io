@@ -9,6 +9,14 @@
       "type_id": "越剧"
     },
     {
+      "type_name": "绍剧",
+      "type_id": "绍剧"
+    },
+    {
+      "type_name": "绍兴莲花落",
+      "type_id": "绍兴莲花落"
+    },
+    {
       "type_name": "芗剧",
       "type_id": "芗剧"
     },
@@ -162,10 +170,7 @@
       "type_name": "婺剧",
       "type_id": "婺剧"
     },
-    {
-      "type_name": "绍剧",
-      "type_id": "绍剧"
-    },
+    
     {
       "type_name": "徽剧",
       "type_id": "徽剧"
